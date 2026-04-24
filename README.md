@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-### Monaco vs Terraform
-Często pada pytanie: *„Skoro mam Terraform, to po co mi Monaco?”*
-
-* **Terraform** jest lepszy do zarządzania „ciężką” infrastrukturą i globalnymi ustawieniami platformy.
-* **Monaco** zostało stworzone przez Dynatrace specjalnie pod ich API. Lepiej radzi sobie z zależnościami między obiektami wewnątrz Dynatrace (np. dashboard, który potrzebuje konkretnego alertu) i jest prostsze dla zespołów deweloperskich, które chcą zarządzać tylko „swoim” kawałkiem monitoringu.
-
-Czy masz już działające środowisko Dynatrace, w którym chciałbyś spróbować wdrożyć coś przez kod, czy dopiero rozpoznajesz temat?
-
 <!--
 **chemfizpw/chemfizpw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
